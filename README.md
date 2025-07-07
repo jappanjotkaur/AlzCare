@@ -1,0 +1,2 @@
+# AlzCare
+HackOrbit Hackathon solution 
