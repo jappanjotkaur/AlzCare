@@ -105,43 +105,11 @@ flutter run
 - Model Type: CNN + LSTM  
 - Framework: TensorFlow/Keras  
 - Input: 33 Pose Landmarks per frame (via MediaPipe)  
-- Output: Activity Classes – Walking, Sitting, Standing, Falling, Laying  
+- Output: Activity Classes – Walking, Sitting, Standing, Falling, Heartstroke, Coughing
+
 
 ---
 
-## 📸 Screenshots
-
-![App UI](https://github.com/riyakansal04/AlzCare/blob/main/screenshots/gui_demo.png)  
-![Fall Detected](https://github.com/riyakansal04/AlzCare/blob/main/screenshots/fall_detected.png)
-
----
-
-## 💡 Use Cases
-
-- Elderly Care Homes  
-- Smart Home Monitoring  
-- Alzheimer's Patient Assistance  
-- Fall Detection & Emergency Alert Systems  
-
----
-
-## 🤝 Contributing
-
-We welcome contributions!  
-You can:
-- Report issues  
-- Improve codebase  
-- Suggest UI/UX enhancements  
-- Submit pull requests with proper documentation  
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👩‍💻 Authors
 
