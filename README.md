@@ -105,7 +105,7 @@ flutter run
 - Model Type: CNN + LSTM  
 - Framework: TensorFlow/Keras  
 - Input: 33 Pose Landmarks per frame (via MediaPipe)  
-- Output: Activity Classes – Walking, Sitting, Standing, Falling, Heartstroke, Coughing
+- Output: Activity Classes – Walking, Sitting, Standing, Falling, Heartstroke, Coughing, Headache
 
 
 ---
@@ -124,4 +124,5 @@ GitHub: [https://github.com/riyakansal04](https://github.com/riyakansal04)
 
 For collaboration or demo requests, feel free to reach out:  
 📧 riyakansal174@gmail.com
+📧jappanjotkaur2004@gmail.com
 🔗 [GitHub Repository](https://github.com/riyakansal04/AlzCare)
