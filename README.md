@@ -47,9 +47,9 @@ AlzCare/
 │   │   ├── alert_screen.dart
 │   │   └── ... (other UI components)
 │   ├── utils/                   # Helper functions and utilities
-│   ├── requirements.txt
-│   └── demo_video.mp4           # 📹 Attached demo video showing full functionality
-│
+│   └── requirements.txt  
+│          
+├── demo_video.mp4   # 📹 Attached demo video showing full functionality
 └── README.md
 ```
 
