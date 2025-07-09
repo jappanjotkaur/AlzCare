@@ -25,7 +25,7 @@ AlzCare is an AI-powered real-time assistance system designed to support elderly
 | Pose Estimation     | MediaPipe Pose          |
 | Deep Learning Model | CNN-LSTM (TensorFlow/Keras) |
 | Backend             | Python, Flask           |
-| Frontend Interface  | Flutter (Dart), Kivy    |
+| Frontend Interface  | Flutter (Dart)    |
 | Video Handling      | OpenCV                  |
 | Notifications       | SMTP / Twilio API       |
 
@@ -149,12 +149,11 @@ See the [LICENSE](LICENSE) file for details.
 - **Riya Kansal** – AI/ML Developer & Flutter Integration  
 
 GitHub: [https://github.com/riyakansal04](https://github.com/riyakansal04)  
-LinkedIn: [https://www.linkedin.com/in/riyakansal04/](https://www.linkedin.com/in/riyakansal04/)
 
 ---
 
 ## 📞 Contact
 
 For collaboration or demo requests, feel free to reach out:  
-📧 riya.kansal04@example.com *(replace with actual email)*  
+📧 riyakansal174@gmail.com
 🔗 [GitHub Repository](https://github.com/riyakansal04/AlzCare)
